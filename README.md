@@ -1,18 +1,16 @@
 <h1 align="center">Hola 👋, soy Alan</h1>
 <h3 align="center">Un apasionado desarrollador de Java Full Stack de Alan</h3>
 
-- 🔭 Actualmente estoy trabajando en [Portafolio] (https://alan-morua.netlify.app/)
-
 - 🌱 Actualmente estoy aprendiendo **Inglés y React JS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://alan-morua.netlify .app/](https://alan-morua.netlify.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [Portfolio](https://alan-morua.netlify.app/)
 
 - 💬 Pregúntame sobre **vue js, java, spring, hibernate, postgresql y más**
 
-- 📫 Cómo contactarme **alanmorua8@gmail.com**
+- 📫 Cómo contactarme [**alanmorua8@gmail.com**](mailto:alanmorua8@gmail.com)
 
 - 📄 Conoce mis experiencias
-[https://drive.google.com/file/d/10Ba_VFFLEqanBVYupGHwgExYpNbBoCHU/view](https://drive.google.com/file/d/10Ba_VFFLEqanBVYupGHwgExYpNbBoCHU/view)
+[Curriculum Vitae](https://drive.google.com/file/d/10Ba_VFFLEqanBVYupGHwgExYpNbBoCHU/view)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p alinear="izquierda">
