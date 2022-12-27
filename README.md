@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alan</h1>
-<h3 align="center">Un apasionado desarrollador de Java Full Stack de Alan</h3>
+<h3 align="center">Un apasionado Desarrollador de Java Full Stack</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Inglés y React JS**
 
