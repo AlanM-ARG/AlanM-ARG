@@ -14,21 +14,25 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p alinear="izquierda">
-    <a href="https://twitter.com/alanmorua1" target="_blank">
+    <a href="https://twitter.com/alanmorua1" target="_blank" rel="noopener noreferrer" >
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="alanmorua1" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/alan-morua-533213252" target="_blank">
+    <a href="https://linkedin.com/in/alan-morua-533213252" target="_blank"  rel="noopener noreferrer" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="alan morua" height="30" width="40" />
     </a>
-    <a href="https://fb.com/alan.fernandom.5" target="-blank "><img align="center"
+    <a href="https://fb.com/alan.fernandom.5" target="_blank"  rel="noopener noreferrer" >
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="alan morua" height="30" width="40" /></a>
-    <a href="https://instagram.com/alanmorua17" target="_blank"><img align="center"
+            alt="alan morua" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/alanmorua17" target="_blank" rel="noopener noreferrer" >
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg"
-            alt="alanmorua17" height="30" width="40" /></a>
+            alt="alanmorua17" height="30" width="40" />
+    </a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
