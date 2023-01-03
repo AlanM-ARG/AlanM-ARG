@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Alan</h1>
 <h3 align="center">Un apasionado Desarrollador de Java Full Stack</h3>
 
+- 🔭 Actualmente estoy trabajando en [E-Commerce](https://github.com/Camilafabiani87/Proyect)
+
 - 🌱 Actualmente estoy aprendiendo **Inglés y React JS**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Portfolio](https://alan-morua.netlify.app/)
